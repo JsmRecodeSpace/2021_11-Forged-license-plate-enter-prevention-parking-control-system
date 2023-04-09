@@ -12,7 +12,7 @@
 ## 2.프로젝트 주최/주관 & 참가 대상
  - 주최 & 주관: 국민대학교 빅데이터경영통계학과 빅데이터학회 D&A
    - (D&A 상세 활동자료는 https://github.com/JsmRecodeSpace/2021-D-A-of-Kookmin-University-s-Big-Data-Society)
- - 참가 대상: '장성민', '이정우' 두 명이서 진행
+ - 참가 대상: '장성민', '이정우'
 <br>
 
 ## 3. 프로젝트 기간
